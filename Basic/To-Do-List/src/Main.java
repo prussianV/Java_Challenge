@@ -7,6 +7,11 @@ public class Main {
         int op;
         String tar = "";
         ArrayList<String> itens = new ArrayList<>();
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 09b39a9e5a76b666ff01284fa242297cac2594fb
         while(true){
             System.out.println("--Lista de afazeres--");
             System.out.println("1- Ver lista");
@@ -32,5 +37,20 @@ public class Main {
                 System.out.println("Insira uma opção existente");
             }
         }
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 09b39a9e5a76b666ff01284fa242297cac2594fb
     }
 }
+
+
+
+
+
+//     nlist.add(55);
+//       nlist.add(33);
+//        nlist.add(423);
+//        System.out.println(nlist.get(1));
